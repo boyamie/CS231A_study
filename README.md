@@ -6,15 +6,11 @@
 - notes study [Course Notes](https://web.stanford.edu/class/cs231a/syllabus.html)
 - writing code by oneself to derive results
 
-## Meeting:
-- Naver Boostcamp AI tech slack
-
 ## Reference
 [CS231A](https://web.stanford.edu/class/cs231a/syllabus.html)
 <br />
 
 ## Progress
-
 ### ⛳️ 	Camera Models (Recorded on Canvas, no in-person class)
 #### study
 - [ ] Kim BoHyun
