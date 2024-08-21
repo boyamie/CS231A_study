@@ -1,0 +1,2 @@
+In this question, we will estimate camera parameters from a single view and leverage the projective nature of cameras to find both the camera center and focal length from vanishing points
+present in the scene above.
