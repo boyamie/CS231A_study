@@ -21,6 +21,7 @@
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -31,6 +32,11 @@
 
 ### 💡 assignment 1
 #### Problem Set 1
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -41,6 +47,11 @@
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -51,6 +62,11 @@
 
 ### ⛳️ Camera Models II and Camera Calibration
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -61,6 +77,11 @@
 
 ### ⛳️ Single View Metrology
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -71,6 +92,11 @@
 
 ### ⛳️ Epipolar Geometry
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -81,6 +107,11 @@
 
 ### ⛳️ Stereo Systems
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -91,6 +122,11 @@
 
 ### 💡 assignment 2
 #### Problem Set 2
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -101,6 +137,11 @@
 
 ### ⛳️ Fitting and Matching
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -111,6 +152,11 @@
 
 ### ⛳️ Representations & Representation Learning
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -121,6 +167,11 @@
 
 ### 💡 assignment 3
 #### Problem Set 3
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -131,6 +182,11 @@
 
 ### ⛳️ Monocular Depth Estimation & Feature Tracking
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -141,6 +197,11 @@
 
 ### ⛳️ Optical and Scene Flow
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -151,6 +212,11 @@
 
 ### ⛳️ Optimal Estimation
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -161,6 +227,11 @@
 
 ### ⛳️ Optimal Estimation Cont.
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -171,6 +242,11 @@
 
 ### 💡 assignment 4
 #### Problem Set 4
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -182,6 +258,11 @@
 
 ### ⛳️ Applications of Optimal Estimation: Object Tracking and Localization
 #### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -191,6 +272,11 @@
 | Leem ChanHyeok  | 09/16/2024     |                 |
 
 ### ⛳️ Neural Radiance Fields
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -200,6 +286,11 @@
 | Leem ChanHyeok  | 09/16/2024     |                 |
 
 ### ⛳️ Gaussian Splatting
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim Seyeon
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
