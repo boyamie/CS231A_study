@@ -20,7 +20,7 @@
 - [ ] Kim BoHyun
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
-- [ ] Leem ChanHyeok
+- [ ] Leem ChanHyeok  
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | Kim BoHyun | 08/24/2024     | [velog]()                 |
