@@ -28,14 +28,14 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun    | 08/25/2024     | [velog]()                 |
+|Kim BoHyun    | 08/25/2024     | [velog]()                 |
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun    | 08/31/2024     | [velog]()                 |
+|Kim BoHyun    | 08/31/2024     | [velog]()                 |
 
 ### ⛳️ Camera Models II and Camera Calibration
 #### study
