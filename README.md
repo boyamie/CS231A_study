@@ -27,6 +27,7 @@
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
 | Kim SeYeon  | 08/24/2024     |                 |
+| Kim HaNeol  | 08/24/2024     |                 |
 
 ### 💡 assignment 1
 #### Problem Set 1
@@ -35,6 +36,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -43,6 +45,7 @@
 | Kang DaeMin | 08/25/2024     |                 |
 | Leem ChanHyeok  | 08/25/2024     |                 |
 | Kim SeYeon  | 08/25/2024     |                 |
+| Kim HaNeol  | 08/24/2024     |                 |
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
@@ -51,6 +54,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -59,6 +63,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |                 |
+| Kim HaNeol  | 08/31/2024     |                 |
 
 ### ⛳️ Camera Models II and Camera Calibration
 #### study
@@ -67,6 +72,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -83,6 +89,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -99,6 +106,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -115,6 +123,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -131,6 +140,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -147,6 +157,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -163,6 +174,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -179,6 +191,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -195,6 +208,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -211,6 +225,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -227,6 +242,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -243,6 +259,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -259,6 +276,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -275,6 +293,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -290,6 +309,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -305,6 +325,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
+- [ ] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
