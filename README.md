@@ -17,10 +17,13 @@
 
 ### ⛳️ 	Camera Models (Recorded on Canvas, no in-person class)
 #### study
-
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| -[ ] Kim BoHyun | 08/24/2024     | [velog]()                 |
+| Kim BoHyun | 08/24/2024     | [velog]()                 |
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
