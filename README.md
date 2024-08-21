@@ -21,21 +21,21 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun    | 08/24/2024     | [velog]()                 |
+|  Kim BoHyun    | 08/24/2024     | [velog]()                 |
 
 ### 💡 assignment 1
 #### Problem Set 1
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-|Kim BoHyun    | 08/25/2024     | [velog]()                 |
+| Kim BoHyun    | 08/25/2024     | [velog]()                 |
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-|Kim BoHyun    | 08/31/2024     | [velog]()                 |
+| Kim BoHyun    | 08/31/2024     | [velog]()                 |
 
 ### ⛳️ Camera Models II and Camera Calibration
 #### study
