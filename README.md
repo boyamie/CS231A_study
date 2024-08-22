@@ -18,7 +18,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [ ] Kim HaNeol
+- [✓] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -27,7 +27,7 @@
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
 | Kim SeYeon  | 08/24/2024     |                 |
-| Kim HaNeol  | 08/24/2024     |                 |
+| Kim HaNeol  | 08/24/2024     | [blog1](https://haneol-kijm.github.io/2024/08/22/CS231A-001)  [blog2](https://haneol-kijm.github.io/2024/08/22/CS231A-002)      |
 
 ### 💡 assignment 1
 #### Problem Set 1
