@@ -18,7 +18,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [✓] Kim HaNeol
+- [x] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
