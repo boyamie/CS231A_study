@@ -11,6 +11,24 @@
 <br />
 
 ## Progress
+### 💡 assignment 0
+#### Problem Set 0
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim SeYeon
+- [x] Kim HaNeol
+
+| name | Date | review                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| Kim BoHyun | 08/25/2024     | [velog]()                 |
+| Kim Minsol | 08/25/2024     |                 |
+| Kang DaeMin | 08/25/2024     |                 |
+| Leem ChanHyeok  | 08/25/2024     |                 |
+| Kim SeYeon  | 08/25/2024     |                 |
+| Kim HaNeol  | 08/24/2024     | [sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps0) [code](https://colab.research.google.com/drive/1uNJOGvm9MaOtz6bN1X3Mnr-KQiNuUKmO?usp=sharing) |
+
 ### ⛳️ 	Camera Models (Recorded on Canvas, no in-person class)
 #### study
 - [ ] Kim BoHyun
@@ -45,7 +63,7 @@
 | Kang DaeMin | 08/25/2024     |                 |
 | Leem ChanHyeok  | 08/25/2024     |                 |
 | Kim SeYeon  | 08/25/2024     |                 |
-| Kim HaNeol  | 08/24/2024     |                 |
+| Kim HaNeol  | 08/24/2024     |[sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps1)|
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
@@ -54,7 +72,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [ ] Kim HaNeol
+- [x] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -63,7 +81,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |                 |
-| Kim HaNeol  | 08/31/2024     |                 |
+| Kim HaNeol  | 08/31/2024     | skip |
 
 ### ⛳️ Camera Models II and Camera Calibration
 #### study
