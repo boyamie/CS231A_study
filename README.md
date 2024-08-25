@@ -11,6 +11,23 @@
 <br />
 
 ## Progress
+### ⛳️ 	Introduction
+#### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim SeYeon
+- [x] Kim HaNeol
+
+| name | Date | review                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| Kim BoHyun | 08/24/2024     | [velog]()                 |
+| Kim MinSol | 08/24/2024     |                 |
+| Kang DaeMin | 08/24/2024     |                 |
+| Leem ChanHyeok  | 08/24/2024     |                 |
+| Kim SeYeon  | 08/24/2024     |                 |
+| Kim HaNeol  | 08/24/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-001) |
 ### 💡 assignment 0
 #### Problem Set 0
 - [ ] Kim BoHyun
@@ -30,7 +47,7 @@
 | Kim HaNeol  | 08/24/2024     | [sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps0) [code](https://colab.research.google.com/drive/1uNJOGvm9MaOtz6bN1X3Mnr-KQiNuUKmO?usp=sharing) |
 
 ### ⛳️ 	Camera Models (Recorded on Canvas, no in-person class)
-#### study
+#### study [result](https://github.com/boyamie/CS231A_study/blob/main/_posts/2024-08-25-week1.md)
 - [ ] Kim BoHyun
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
@@ -45,7 +62,7 @@
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
 | Kim SeYeon  | 08/24/2024     |                 |
-| Kim HaNeol  | 08/24/2024     | [blog1](https://haneol-kijm.github.io/2024/08/22/CS231A-001)  [blog2](https://haneol-kijm.github.io/2024/08/22/CS231A-002)      |
+| Kim HaNeol  | 08/24/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-002)      |
 
 ### 💡 assignment 1
 #### Problem Set 1
