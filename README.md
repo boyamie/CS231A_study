@@ -22,7 +22,7 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun | 08/24/2024     | [obsidian](obsidian://open?vault=obsidian-sync&file=week1%2FIntroduction)                 |
+| Kim BoHyun | 08/24/2024     | [velog](https://velog.io/@boyamie_/cs231a-Introduction)                 |
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
