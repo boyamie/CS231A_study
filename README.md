@@ -22,7 +22,7 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun | 08/24/2024     | [obsidian](https://github.com/boyamie/obsidian-sync/blob/main/Introduction.md)                 |
+| Kim BoHyun | 08/24/2024     | [obsidian](obsidian://open?vault=obsidian-sync&file=week1%2FIntroduction)                 |
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
