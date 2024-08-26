@@ -1,3 +1,0 @@
-In this question, we will perform affine camera calibration using two different images of a calibration
-grid. First, you will find correspondences between the corners of the calibration grids and the 3D
-scene coordinates. Next, you will solve for the camera parameters.
