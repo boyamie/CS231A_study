@@ -13,7 +13,7 @@
 ## Progress
 ### ⛳️ 	Introduction
 #### study
-- [ ] Kim BoHyun
+- [x] Kim BoHyun
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
@@ -22,7 +22,7 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun | 08/24/2024     | [velog]()                 |
+| Kim BoHyun | 08/24/2024     | [obsidian](https://github.com/boyamie/obsidian-sync/blob/main/Introduction.md)                 |
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
@@ -48,7 +48,7 @@
 
 ### ⛳️ 	Camera Models (Recorded on Canvas, no in-person class)
 #### study [result](https://github.com/boyamie/CS231A_study/blob/main/_posts/2024-08-25-week1.md)
-- [ ] Kim BoHyun
+- [x] Kim BoHyun
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
@@ -57,7 +57,7 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun | 08/24/2024     | [velog]()                 |
+| Kim BoHyun | 08/24/2024     | [obsidian](https://github.com/boyamie/obsidian-sync/blob/main/Camera%20Models%20(Recorded%20on%20Canvas%2C%20no%20in-person%20class).md)                 |
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
