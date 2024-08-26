@@ -1,6 +1,6 @@
 # CS231A_study
 ## Goal
-- preparing project about 3D Perception to 3D Reconstruction and beyond
+- preparing project about 3D Perception to 3D Reconstruction and beyond ![Majors](ps0/majors.png)
 
 ## Rules
 - notes study [Course Notes](https://web.stanford.edu/class/cs231a/syllabus.html)
