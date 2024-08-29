@@ -152,7 +152,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |                 |
-| Kim HaNeol | 08/31/2024     |                 |
+| Kim HaNeol | 08/29/2024     |  [blog](https://haneol-kijm.github.io/2024/08/29/CS231A-005)         |
 
 ### ⛳️ Stereo Systems
 #### study
