@@ -71,7 +71,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [ ] Kim HaNeol
+- [x] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -80,7 +80,7 @@
 | Kang DaeMin | 08/25/2024     |                 |
 | Leem ChanHyeok  | 08/25/2024     |                 |
 | Kim SeYeon  | 08/25/2024     |                 |
-| Kim HaNeol  | 08/24/2024     |[sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps1)|
+| Kim HaNeol  | 08/30/2024     |[sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps1) [code](https://colab.research.google.com/drive/1BX4pB5GbDv-CknHV5lclWprEuUqf78qG?usp=sharing)|
 
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
