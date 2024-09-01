@@ -17,7 +17,7 @@
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
-- [x] Kim SeYeon
+- [ ] Kim SeYeon
 - [x] Kim HaNeol
 
 | name | Date | review                                                     | 
@@ -26,7 +26,7 @@
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
-| Kim SeYeon  | 08/24/2024     | [velog](https://velog.io/@yeon-ksy/Camera-Models-1)          |
+| Kim SeYeon  | 08/24/2024     |         |
 | Kim HaNeol  | 08/23/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-001) |
 ### 💡 assignment 0
 #### Problem Set 0
@@ -52,7 +52,7 @@
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
-- [ ] Kim SeYeon
+- [x] Kim SeYeon
 - [x] Kim HaNeol
 
 | name | Date | review                                                     | 
@@ -61,7 +61,7 @@
 | Kim MinSol | 08/24/2024     |                 |
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
-| Kim SeYeon  | 08/24/2024     |                 |
+| Kim SeYeon  | 08/24/2024     |[velog](https://velog.io/@yeon-ksy/Camera-Models-1)               |
 | Kim HaNeol  | 08/23/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-002)      |
 
 ### 💡 assignment 1
@@ -106,7 +106,7 @@
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
-- [ ] Kim SeYeon
+- [x] Kim SeYeon
 - [x] Kim Haneol
 
 | name | Date | review                                                     | 
@@ -115,7 +115,7 @@
 | Kim MinSol | 08/31/2024     |                 |
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
-| Kim SeYeon  | 08/31/2024     |                 |
+| Kim SeYeon  | 08/31/2024     |   [velog](https://velog.io/@yeon-ksy/Camera-Models-2)         |
 | Kim HaNeol  | 08/27/2024     | [blog](https://haneol-kijm.github.io/2024/08/27/CS231A-003) |
 
 ### ⛳️ Single View Metrology
