@@ -161,7 +161,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [ ] Kim HaNeol
+- [x] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -170,7 +170,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |                 |
-| Kim HaNeol | 08/31/2024     |                 |
+| Kim HaNeol | 08/31/2024     |  [blog](https://haneol-kijm.github.io/2024/09/02/CS231A-006)     |
 
 ### 💡 assignment 2
 #### Problem Set 2
@@ -189,6 +189,42 @@
 | Leem ChanHyeok  | 09/01/2024     |                 |
 | Kim SeYeon  | 09/01/2024     |                 |
 | Kim HaNeol | 09/01/2024     |                 |
+
+### ⛳️ Structure from Motion
+#### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim SeYeon
+- [ ] Kim HaNeol
+
+| name | Date | review                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| Kim BoHyun | 09/07/2024     | [velog]()                 |
+| Kim MinSol | 09/07/2024     |                 |
+| Kang DaeMin | 09/07/2024     |                 |
+| Leem ChanHyeok  | 09/07/2024     |                 |
+| Kim SeYeon  | 09/07/2024     |                 |
+| Kim HaNeol | 09/07/2024     |                 |
+
+### ⛳️ Active Stereo & Volumetric Stereo
+#### study
+- [ ] Kim BoHyun
+- [ ] Kim MinSol
+- [ ] Kang DaeMin
+- [ ] Leem ChanHyeok
+- [ ] Kim SeYeon
+- [ ] Kim HaNeol
+
+| name | Date | review                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| Kim BoHyun | 09/07/2024     | [velog]()                 |
+| Kim MinSol | 09/07/2024     |                 |
+| Kang DaeMin | 09/07/2024     |                 |
+| Leem ChanHyeok  | 09/07/2024     |                 |
+| Kim SeYeon  | 09/07/2024     |                 |
+| Kim HaNeol | 09/07/2024     |                 |
 
 ### ⛳️ Fitting and Matching
 #### study
