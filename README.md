@@ -197,7 +197,7 @@
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
 - [ ] Kim SeYeon
-- [ ] Kim HaNeol
+- [x] Kim HaNeol
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -206,7 +206,7 @@
 | Kang DaeMin | 09/07/2024     |                 |
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/07/2024     |                 |
-| Kim HaNeol | 09/07/2024     |                 |
+| Kim HaNeol | 09/07/2024     |  [blog](https://haneol-kijm.github.io/2024/09/03/CS231A-007)          |
 
 ### ⛳️ Active Stereo & Volumetric Stereo
 #### study
