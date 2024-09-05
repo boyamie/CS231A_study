@@ -133,7 +133,7 @@
 | Kim MinSol | 08/31/2024     |                 |
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
-| Kim SeYeon  | 08/31/2024     |                 |
+| Kim SeYeon  | 08/31/2024     |  [velog](https://velog.io/@yeon-ksy/Single-View-Metrology)            |
 | Kim HaNeol | 08/28/2024     |  [blog](https://haneol-kijm.github.io/2024/08/28/CS231A-004)          |
 
 ### ⛳️ Epipolar Geometry
