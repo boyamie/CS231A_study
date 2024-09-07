@@ -156,7 +156,7 @@
 
 ### ⛳️ Stereo Systems
 #### study
-- [ ] Kim BoHyun
+- [x] Kim BoHyun
 - [ ] Kim MinSol
 - [ ] Kang DaeMin
 - [ ] Leem ChanHyeok
