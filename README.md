@@ -165,7 +165,7 @@
 
 | name | Date | review                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| Kim BoHyun | 08/31/2024     | [velog]()                 |
+| Kim BoHyun | 08/31/2024     | [velog](https://velog.io/@boyamie_/Stereo-Systems-Multi-view-geometry)               |
 | Kim MinSol | 08/31/2024     |                 |
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
