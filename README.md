@@ -1,4 +1,5 @@
 # CS231A_study
+[Plan](https://night-leaf-649.notion.site/4855106bb337465b95f91eeda750d4df?v=e9cce36b4be7484798af9a962c2ccc91&pvs=4)
 ## Goal
 - preparing project about 3D Perception to 3D Reconstruction and beyond ![Majors](ps0/majors.png)
 
