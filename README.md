@@ -11,6 +11,7 @@
 <br />
 
 ## Progress
+[week1](CS231A_study/_posts/image/week1.png)
 ### ⛳️ 	Introduction
 #### study
 - [x] Kim BoHyun
