@@ -82,7 +82,9 @@
 | Leem ChanHyeok  | 08/25/2024     |                 |
 | Kim SeYeon  | 08/25/2024     |                 |
 | Kim HaNeol  | 08/30/2024     |[sol](https://haneol-kijm.github.io/2024/08/24/CS231A-ps1) [code](https://colab.research.google.com/drive/1BX4pB5GbDv-CknHV5lclWprEuUqf78qG?usp=sharing)|
+
 ![week2](_posts/image/week2.png)
+
 ### ⛳️ Python Introduction and Linear Algebra Review
 #### study
 - [ ] Kim BoHyun
@@ -154,7 +156,9 @@
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |  [velog](https://velog.io/@yeon-ksy/Epipolar-Geometry)              |
 | Kim HaNeol | 08/29/2024     |  [blog](https://haneol-kijm.github.io/2024/08/29/CS231A-005)         |
+
 ![week3](_posts/image/week3.png)
+
 ### ⛳️ Stereo Systems
 #### study
 - [x] Kim BoHyun
@@ -226,7 +230,9 @@
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/07/2024     |                 |
 | Kim HaNeol | 09/07/2024     |   [blog](https://haneol-kijm.github.io/2024/09/05/CS231A-008)    |
+
 ![week4](_posts/image/week4.png)
+
 ### ⛳️ Fitting and Matching
 #### study
 - [ ] Kim BoHyun
