@@ -340,7 +340,7 @@
 | Kang DaeMin | 09/14/2024     |                 |
 | Leem ChanHyeok  | 09/14/2024     |                 |
 | Kim SeYeon  | 09/14/2024     |                 |
-| Kim HaNeol | 09/14/2024     |         [blog](https://haneol-ai-lab.vercel.app/Naver Boostcamp/CS231A study/Lecture 13- Optimal Estimation/)        |
+| Kim HaNeol | 09/14/2024     |         [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2013-%20Optimal%20Estimation/)        |
 
 ### ⛳️ Optimal Estimation Cont.
 #### study
