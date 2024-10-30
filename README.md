@@ -29,7 +29,7 @@
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
 | Kim SeYeon  | 08/24/2024     |         |
-| Kim HaNeol  | 08/23/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-001) |
+| Kim HaNeol  | 08/23/2024     | [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%201-%20Introduction/) |
 ### 💡 assignment 0
 #### Problem Set 0
 - [ ] Kim BoHyun
@@ -64,7 +64,7 @@
 | Kang DaeMin | 08/24/2024     |                 |
 | Leem ChanHyeok  | 08/24/2024     |                 |
 | Kim SeYeon  | 08/24/2024     |[velog](https://velog.io/@yeon-ksy/Camera-Models-1)               |
-| Kim HaNeol  | 08/23/2024     | [blog](https://haneol-kijm.github.io/2024/08/22/CS231A-002)      |
+| Kim HaNeol  | 08/23/2024     | [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%202-%20Camera%20Models/)      |
 
 ### 💡 assignment 1
 #### Problem Set 1
@@ -120,7 +120,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |   [velog](https://velog.io/@yeon-ksy/Camera-Models-2)         |
-| Kim HaNeol  | 08/27/2024     | [blog](https://haneol-kijm.github.io/2024/08/27/CS231A-003) |
+| Kim HaNeol  | 08/27/2024     | [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%203-%20Camera%20Models%202%20&%20Camera%20Calibration/) |
 
 ### ⛳️ Single View Metrology
 #### study
@@ -138,7 +138,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |  [velog](https://velog.io/@yeon-ksy/Single-View-Metrology)            |
-| Kim HaNeol | 08/28/2024     |  [blog](https://haneol-kijm.github.io/2024/08/28/CS231A-004)          |
+| Kim HaNeol | 08/28/2024     |  [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%204-%20Single%20View%20Metrology/)          |
 
 ### ⛳️ Epipolar Geometry
 #### study
@@ -156,7 +156,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |  [velog](https://velog.io/@yeon-ksy/Epipolar-Geometry)              |
-| Kim HaNeol | 08/29/2024     |  [blog](https://haneol-kijm.github.io/2024/08/29/CS231A-005)         |
+| Kim HaNeol | 08/29/2024     |  [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%205-%20Epipolar%20Geometry/)         |
 
 ![week3](_posts/image/week3.png)
 
@@ -176,7 +176,7 @@
 | Kang DaeMin | 08/31/2024     |                 |
 | Leem ChanHyeok  | 08/31/2024     |                 |
 | Kim SeYeon  | 08/31/2024     |                 |
-| Kim HaNeol | 08/31/2024     |  [blog](https://haneol-kijm.github.io/2024/09/02/CS231A-006)     |
+| Kim HaNeol | 08/31/2024     |  [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%206-%20Stereo%20Systems/)     |
 
 ### 💡 assignment 2
 #### Problem Set 2
@@ -212,7 +212,7 @@
 | Kang DaeMin | 09/07/2024     |                 |
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/07/2024     |                 |
-| Kim HaNeol | 09/07/2024     |  [blog](https://haneol-kijm.github.io/2024/09/03/CS231A-007)          |
+| Kim HaNeol | 09/07/2024     |  [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%207-%20Structure%20from%20Motion/)          |
 
 ### ⛳️ Active Stereo & Volumetric Stereo
 #### study
@@ -230,7 +230,7 @@
 | Kang DaeMin | 09/07/2024     |                 |
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/07/2024     |                 |
-| Kim HaNeol | 09/07/2024     |   [blog](https://haneol-kijm.github.io/2024/09/05/CS231A-008)    |
+| Kim HaNeol | 09/07/2024     |   [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%208-%20Active%20volumetric%20stereo/)    |
 
 ![week4](_posts/image/week4.png)
 
@@ -250,7 +250,7 @@
 | Kang DaeMin | 09/07/2024     |                 |
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/07/2024     |                 |
-| Kim HaNeol | 09/07/2024     |  [blog](https://haneol-kijm.github.io/2024/09/09/CS231A-009)     |
+| Kim HaNeol | 09/07/2024     |  [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%209-%20Fitting%20and%20Matching/)     |
 
 ### ⛳️ Representations & Representation Learning
 #### study
@@ -268,7 +268,7 @@
 | Kang DaeMin | 09/07/2024     |                 |
 | Leem ChanHyeok  | 09/07/2024     |                 |
 | Kim SeYeon  | 09/01/2024     |                 |
-| Kim HaNeol | 09/07/2024     |                 |
+| Kim HaNeol | 09/07/2024     |    [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2010-%20Representation%20and%20Representation%20Learning/)            |
 
 ### 💡 assignment 3
 #### Problem Set 3
@@ -304,7 +304,7 @@
 | Kang DaeMin | 09/14/2024     |                 |
 | Leem ChanHyeok  | 09/14/2024     |                 |
 | Kim SeYeon  | 09/14/2024     |                 |
-| Kim HaNeol | 09/14/2024     |                 |
+| Kim HaNeol | 09/14/2024     |        [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2011-%20Monocular%20Depth%20Estimation&Feature%20Tracking/)         |
 
 ### ⛳️ Optical and Scene Flow
 #### study
@@ -322,7 +322,7 @@
 | Kang DaeMin | 09/14/2024     |                 |
 | Leem ChanHyeok  | 09/14/2024     |                 |
 | Kim SeYeon  | 09/14/2024     |                 |
-| Kim HaNeol | 09/14/2024     |                 |
+| Kim HaNeol | 09/14/2024     |        [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2012-%20Optical%20and%20Scene%20Flow/)         |
 
 ### ⛳️ Optimal Estimation
 #### study
@@ -340,7 +340,7 @@
 | Kang DaeMin | 09/14/2024     |                 |
 | Leem ChanHyeok  | 09/14/2024     |                 |
 | Kim SeYeon  | 09/14/2024     |                 |
-| Kim HaNeol | 09/14/2024     |                 |
+| Kim HaNeol | 09/14/2024     |         [blog](https://haneol-ai-lab.vercel.app/Naver Boostcamp/CS231A study/Lecture 13- Optimal Estimation/)        |
 
 ### ⛳️ Optimal Estimation Cont.
 #### study
@@ -358,7 +358,7 @@
 | Kang DaeMin | 09/14/2024     |                 |
 | Leem ChanHyeok  | 09/14/2024     |                 |
 | Kim SeYeon  | 09/14/2024     |                 |
-| Kim HaNeol | 09/14/2024     |                 |
+| Kim HaNeol | 09/14/2024     |         [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2014,15-%20Optimal%20Estimation%20continued/)        |
 
 ### 💡 assignment 4
 #### Problem Set 4
@@ -394,7 +394,7 @@
 | Kang DaeMin | 09/16/2024     |                 |
 | Leem ChanHyeok  | 09/16/2024     |                 |
 | Kim SeYeon  | 09/16/2024     |                 |
-| Kim HaNeol | 09/16/2024     |                 |
+| Kim HaNeol | 09/16/2024     |    [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2014,15-%20Optimal%20Estimation%20continued/)        |
 
 ### ⛳️ Neural Radiance Fields
 - [ ] Kim BoHyun
@@ -411,7 +411,7 @@
 | Kang DaeMin | 09/16/2024     |                 |
 | Leem ChanHyeok  | 09/16/2024     |                 |
 | Kim SeYeon  | 09/16/2024     |                 |
-| Kim HaNeol | 09/16/2024     |                 |
+| Kim HaNeol | 09/16/2024     |        [blog](https://haneol-ai-lab.vercel.app/Naver%20Boostcamp/CS231A%20study/Lecture%2016-%20Neural%20Radiance%20Fields/)         |
 
 ### ⛳️ Gaussian Splatting
 - [ ] Kim BoHyun
